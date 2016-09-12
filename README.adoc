@@ -1,0 +1,11 @@
+= Graphite, Grafana and Vagrant
+
+This project sets up a vagrant box for using Graphite and Grafana out of the box
+Basically, I waned to use these things and didn't see anything done yet todate
+with them and so I wanted to help save people time going forward.
+
+== vagrant
+[source,bash]
+----
+$ vagrant up
+----
