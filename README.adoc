@@ -9,3 +9,10 @@ with them and so I wanted to help save people time going forward.
 ----
 $ vagrant up
 ----
+
+== Browser
+
+https://192.168.44.25:443
+
+== References
+. http://community.netapp.com/fukiw75442/attachments/fukiw75442/oncommand-storage-management-software-articles-and-resources/717/2/Graphite_Grafana_Quick_Start_v1.4.pdf[Configure Graphite and Grafana]
